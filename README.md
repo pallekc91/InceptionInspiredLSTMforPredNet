@@ -10,7 +10,7 @@ module load pytorch/1.3
 ```
 
 ## Data Setup
-Please download the the required train, test Kitti preprocessed data from [here](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html) and extract that in './kitti_data' directory
+Please download the the required train, test Kitti preprocessed data from [here](https://figshare.com/articles/KITTI_hkl_files/7985684) and extract that in './kitti_data' directory
 
 ## Commands
 
