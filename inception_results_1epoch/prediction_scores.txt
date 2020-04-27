@@ -1,0 +1,2 @@
+Model MSE: 0.018290
+Previous Frame MSE: 0.021246
