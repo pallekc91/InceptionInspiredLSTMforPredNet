@@ -17,7 +17,6 @@ from keras.layers import Input, Dense, Flatten
 
 from inception import PredNetInception
 from data_utils import SequenceGenerator
-from kitti_settings import *
 
 
 n_plot = 40

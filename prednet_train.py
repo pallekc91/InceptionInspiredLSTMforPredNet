@@ -17,7 +17,6 @@ from keras.optimizers import Adam
 
 from prednet import PredNet
 from data_utils import SequenceGenerator
-from kitti_settings import *
 from keras import backend
 
 
